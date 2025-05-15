@@ -8,7 +8,9 @@ Found these keys... wonder what they do...
 
 We're given a file called `cne.txt`, which contains 3 variables, `c`, `n` and `e`.  
 The first idea in my mind is trying to factor `n`, using this [site](https://www.alpertron.com.ar/ECM.HTM). And fortunately, the given `n` is a _prime number_, so the rest tasks is like a "piece of cake".
+
 ![](https://i.ibb.co/fBgtm9h/01.png)
+
 Using RSA's decryption formula:
 
 $$
